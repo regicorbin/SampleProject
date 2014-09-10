@@ -1,3 +1,4 @@
+modifying after delete
 this is a new test for story3
  new file
 
