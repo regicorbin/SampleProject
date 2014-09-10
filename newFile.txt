@@ -1,4 +1,6 @@
-2
+ this is story3
+
+
  new file
 
 and now I am adding new stuff to this
